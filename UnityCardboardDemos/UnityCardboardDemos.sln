@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityCardboardDemos.CSharp", "UnityCardboardDemos.CSharp.csproj", "{E60D611D-2857-7DAA-98B9-C9EBC7DB434A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityCardboardDemos.CSharp.Editor", "UnityCardboardDemos.CSharp.Editor.csproj", "{75B005E7-DD32-3147-50D4-DACFBACD7401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60D611D-2857-7DAA-98B9-C9EBC7DB434A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60D611D-2857-7DAA-98B9-C9EBC7DB434A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60D611D-2857-7DAA-98B9-C9EBC7DB434A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60D611D-2857-7DAA-98B9-C9EBC7DB434A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B005E7-DD32-3147-50D4-DACFBACD7401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B005E7-DD32-3147-50D4-DACFBACD7401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B005E7-DD32-3147-50D4-DACFBACD7401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B005E7-DD32-3147-50D4-DACFBACD7401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

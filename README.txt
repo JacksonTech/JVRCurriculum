@@ -1,0 +1,1 @@
+VR demos for an open-source VR course curriculum. All of my assets released under Apache 2.0 License. Other assets released under the same license, except where noted in the LICENSE file.

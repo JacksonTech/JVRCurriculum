@@ -1,0 +1,1 @@
+include ':TreasureHunt', ':MinimalDemo1', ':MinimalDemo2', ':MinimalDemo3', ':MinimalDemo4', ':common', ':base', ':audio'
